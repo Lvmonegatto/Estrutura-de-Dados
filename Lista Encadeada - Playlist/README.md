@@ -83,6 +83,10 @@ O programa utiliza a linguagem C e as bibliotecas padrão `stdio.h`, `stdlib.h` 
 Para compilar utilizando o GCC:
 
 ```bash
+cd Lista Encadeada - Playlist
+```
+
+```bash
 gcc main.c -o playlist
 ```
 

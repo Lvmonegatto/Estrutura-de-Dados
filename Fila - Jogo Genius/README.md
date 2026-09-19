@@ -541,7 +541,7 @@ Jogo encerrado.
 ## Estrutura do projeto
 
 ```text
-genius/
+Fila - Jogo Genius/
 │
 ├── main.c
 └── README.md
@@ -552,6 +552,10 @@ genius/
 ## Compilação
 
 Para compilar o programa utilizando o GCC:
+
+```bash
+cd Fila - Jogo Genius
+```
 
 ```bash
 gcc main.c -o genius

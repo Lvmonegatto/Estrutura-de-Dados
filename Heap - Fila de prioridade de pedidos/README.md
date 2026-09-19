@@ -685,7 +685,7 @@ Quantidade de pedidos: 4
 ## Estrutura do projeto
 
 ```text
-sistema-pedidos/
+Heap - Fila de prioridade de pedidos/
 │
 ├── main.c
 └── README.md
@@ -698,7 +698,11 @@ sistema-pedidos/
 Para compilar o programa utilizando o GCC:
 
 ```bash
-gcc main.c -o pedidos
+cd Fila de prioridade de pedidos
+```
+
+```bash
+gcc main.c -o fila_prioridade
 ```
 
 ---
@@ -708,13 +712,13 @@ gcc main.c -o pedidos
 ### Windows
 
 ```bash
-pedidos.exe
+fila_prioridade.exe
 ```
 
 ### Linux / macOS
 
 ```bash
-./pedidos
+./fila_prioridade
 ```
 
 ---

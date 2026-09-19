@@ -55,7 +55,11 @@ O programa utiliza a linguagem C e a biblioteca matemática `math.h`.
 Para compilar utilizando o GCC:
 
 ```bash
-gcc main.c -o vetores -lm
+cd Biblioteca matematica
+```
+
+```bash
+gcc main.c -o matematica
 ```
 
 O parâmetro `-lm` é utilizado para realizar a ligação com a biblioteca matemática, necessária para o cálculo da raiz quadrada utilizado na norma dos vetores.
@@ -65,13 +69,13 @@ O parâmetro `-lm` é utilizado para realizar a ligação com a biblioteca matem
 No Linux ou macOS:
 
 ```bash
-./vetores
+./matematica
 ```
 
 No Windows:
 
 ```bash
-vetores.exe
+matematica.exe
 ```
 
 ## Exemplo de execução

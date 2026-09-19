@@ -271,6 +271,10 @@ Quantidade de movimentos: 15
 Para compilar o programa utilizando o GCC:
 
 ```bash
+cd Pilha - Jogo Torre de Hanói
+```
+
+```bash
 gcc main.c -o hanoi
 ```
 
